@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Senior Software Engineer
-- 🌱 I’m currently learning about AI and Cibersecurity
-- 🧰 I'm currently creating some experiments with SBC
+- 🧰 I'm doing some experiments with my SBCs and AI
  
 <!--
 **raquel/raquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
